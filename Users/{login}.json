@@ -1,0 +1,17 @@
+[
+    {
+        "login": "root",
+        "password": "1234",
+        "name": "Суперпользователь"
+    },
+    {
+        "login": "user",
+        "password": "pass",
+        "name": "Пользователь"
+    },
+    {
+        "login": "Admin",
+        "password": "admin",
+        "name": "Администратор"
+    }
+]
